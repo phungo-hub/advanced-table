@@ -1,0 +1,22 @@
+body {
+    padding: 50px;
+}
+
+table {
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+    border-collapse: collapse;
+}
+td, th {
+    border: 1px solid #ddd;
+    text-align: center;
+    padding: 8px;
+}
+
+th {
+    background-color: #d61b06;
+    color: white;
+    font-weight: 400;
+    padding:20px 20px 20px 20px;
+    border-bottom:1px solid #e0e0e0;
+}
